@@ -1,0 +1,566 @@
+/*B3 Line Icon*/
+.elegantshop-add-button .add_to_cart_button.b3_divi_b3lineicon_icon_fd,
+.elegantshop-add-button .elegantshop-click-etfonts.b3_divi_b3lineicon_icon_fd,
+.elegantshop-nav.elegantshop-carousel-button-prev.b3_divi_b3lineicon_icon_fd,
+.elegantshop-nav.elegantshop-carousel-button-next.b3_divi_b3lineicon_icon_fd,
+.elegantshop-cart-icon.b3_divi_b3lineicon_icon_fd,
+.dnext-sid-text-divider-icon.b3_divi_b3lineicon_icon_fd,
+.dnxte-feature-list-icon.b3_divi_b3lineicon_icon_fd,
+.dnxte-hotspot_icon.b3_divi_b3lineicon_icon_fd,
+.dgbc_blog_carousel .dgbc_post_item .dg_read_more_wrapper a:after,
+.dp-dfg-search,
+*[data-b3c='b3_divi_b3lineicon_icon_fd']:after,
+*[data-b3c='b3_divi_b3lineicon_icon_fd']:before,
+body .et-pb-icon[data-b3c='b3_divi_b3lineicon_icon_fd'],
+body .dsm_icon_list_icon[data-b3c='b3_divi_b3lineicon_icon_fd'],
+body .dmach-icon.b3_divi_b3lineicon_icon_fd,
+body .et_overlay.b3_divi_b3lineicon_icon_fd,
+body .b3_divi_b3lineicon_icon_fd:before,
+body .b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_button.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_button.b3_divi_b3lineicon_icon_fd:after,
+body [class^="et_pb_button_"].b3_divi_b3lineicon_icon_fd:before,
+body [class^="et_pb_button_"].b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_custom_button_icon.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_custom_button_icon.b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_more_button.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_more_button.b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_button_one.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_button_one.b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_button_two.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_button_two.b3_divi_b3lineicon_icon_fd:after,
+body .et-pb-icon.b3_divi_b3lineicon_icon_fd,
+body .et_overlay.b3_divi_b3lineicon_icon_fd:before,
+body .et_overlay.b3_divi_b3lineicon_icon_fd:after,
+body .et_extra_overlay.b3_divi_b3lineicon_icon_fd:before,
+body .et_extra_overlay.b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_shop.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_shop.b3_divi_b3lineicon_icon_fd:after,
+.et_font_icon li.b3_divi_b3lineicon_icon_fd:before,
+body.et-db #et-boc .et-l .et-fb-font-icon-list li.b3_divi_b3lineicon_icon_fd:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_b3lineicon_icon_fd.et-pb-icon[data-iconfamily="b3lineicon"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et-pb-icon[data-iconfamily="b3lineicon"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_b3lineicon_icon_fd[data-iconfamily="b3lineicon"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_b3lineicon_icon_fd[data-iconfamily="b3lineicon"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="b3lineicon"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .single_add_to_cart_button.button[data-iconfamily="b3lineicon"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .single_add_to_cart_button.button[data-iconfamily="b3lineicon"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="b3lineicon"]:before{
+	font-family: 'B3-Line-Icons' !important;
+	/* opacity: 1 !important; */
+}
+
+/*Material Icon*/
+.elegantshop-add-button .add_to_cart_button.b3_divi_mt_icon_fd,
+.elegantshop-add-button .elegantshop-click-etfonts.b3_divi_mt_icon_fd,
+.elegantshop-nav.elegantshop-carousel-button-prev.b3_divi_mt_icon_fd,
+.elegantshop-nav.elegantshop-carousel-button-next.b3_divi_mt_icon_fd,
+.elegantshop-cart-icon.b3_divi_mt_icon_fd,
+.dnext-sid-text-divider-icon.b3_divi_mt_icon_fd,
+.dnxte-feature-list-icon.b3_divi_mt_icon_fd,
+.dnxte-hotspot_icon.b3_divi_mt_icon_fd,
+.dgbc_blog_carousel .dgbc_post_item .dg_read_more_wrapper a:after,
+.dp-dfg-search,
+*[data-b3c='b3_divi_mt_icon_fd']:after,
+*[data-b3c='b3_divi_mt_icon_fd']:before,
+body .et-pb-icon[data-b3c='b3_divi_mt_icon_fd'],
+body .dsm_icon_list_icon[data-b3c='b3_divi_mt_icon_fd'],
+body .dmach-icon.b3_divi_mt_icon_fd,
+body .et_overlay.b3_divi_mt_icon_fd,
+body .b3_divi_mt_icon_fd:before,
+body .b3_divi_mt_icon_fd:after,
+body .et_pb_button.b3_divi_mt_icon_fd:before,
+body .et_pb_button.b3_divi_mt_icon_fd:after,
+body [class^="et_pb_button_"].b3_divi_mt_icon_fd:before,
+body [class^="et_pb_button_"].b3_divi_mt_icon_fd:after,
+body .et_pb_custom_button_icon.b3_divi_mt_icon_fd:before,
+body .et_pb_custom_button_icon.b3_divi_mt_icon_fd:after,
+body .et_pb_more_button.b3_divi_mt_icon_fd:before,
+body .et_pb_more_button.b3_divi_mt_icon_fd:after,
+body .et_pb_button_one.b3_divi_mt_icon_fd:before,
+body .et_pb_button_one.b3_divi_mt_icon_fd:after,
+body .et_pb_button_two.b3_divi_mt_icon_fd:before,
+body .et_pb_button_two.b3_divi_mt_icon_fd:after,
+body .et-pb-icon.b3_divi_mt_icon_fd,
+body .et_overlay.b3_divi_mt_icon_fd:before,
+body .et_overlay.b3_divi_mt_icon_fd:after,
+body .et_extra_overlay.b3_divi_mt_icon_fd:before,
+body .et_extra_overlay.b3_divi_mt_icon_fd:after,
+body .et_pb_shop.b3_divi_mt_icon_fd:before,
+body .et_pb_shop.b3_divi_mt_icon_fd:after,
+.et_font_icon li.b3_divi_mt_icon_fd:before,
+body.et-db #et-boc .et-l .et-fb-font-icon-list li.b3_divi_mt_icon_fd:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_mt_icon_fd.et-pb-icon[data-iconfamily="mt"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et-pb-icon[data-iconfamily="mt"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_mt_icon_fd[data-iconfamily="mt"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_mt_icon_fd[data-iconfamily="mt"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="mt"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .single_add_to_cart_button.button[data-iconfamily="mt"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .single_add_to_cart_button.button[data-iconfamily="mt"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="mt"]:before{
+	font-family: 'Material Icons' !important;
+	/* opacity: 1 !important; */
+}
+
+/*Font Awesome Icon*/
+.elegantshop-add-button .add_to_cart_button.b3_divi_fas_icon_fd,
+.elegantshop-add-button .elegantshop-click-etfonts.b3_divi_fas_icon_fd,
+.elegantshop-nav.elegantshop-carousel-button-prev.b3_divi_fas_icon_fd,
+.elegantshop-nav.elegantshop-carousel-button-next.b3_divi_fas_icon_fd,
+.elegantshop-cart-icon.b3_divi_fas_icon_fd,
+.dnext-sid-text-divider-icon.b3_divi_fas_icon_fd,
+.dnxte-feature-list-icon.b3_divi_fas_icon_fd,
+.dnxte-hotspot_icon.b3_divi_fas_icon_fd,
+.dgbc_blog_carousel .dgbc_post_item .dg_read_more_wrapper a:after,
+.dp-dfg-search,
+*[data-b3c='b3_divi_fas_icon_fd']:after,
+*[data-b3c='b3_divi_fas_icon_fd']:before,
+body .et-pb-icon[data-b3c='b3_divi_fas_icon_fd'],
+body .dsm_icon_list_icon[data-b3c='b3_divi_fas_icon_fd'],
+body .dmach-icon.b3_divi_fas_icon_fd,
+body .et_overlay.b3_divi_fas_icon_fd,
+body .b3_divi_fas_icon_fd:before,
+body .b3_divi_fas_icon_fd:after,
+body .et_pb_button.b3_divi_fas_icon_fd:before,
+body .et_pb_button.b3_divi_fas_icon_fd:after,
+body [class^="et_pb_button_"].b3_divi_fas_icon_fd:before,
+body [class^="et_pb_button_"].b3_divi_fas_icon_fd:after,
+body .et_pb_custom_button_icon.b3_divi_fas_icon_fd:before,
+body .et_pb_custom_button_icon.b3_divi_fas_icon_fd:after,
+body .et_pb_more_button.b3_divi_fas_icon_fd:before,
+body .et_pb_more_button.b3_divi_fas_icon_fd:after,
+body .et_pb_button_one.b3_divi_fas_icon_fd:before,
+body .et_pb_button_one.b3_divi_fas_icon_fd:after,
+body .et_pb_button_two.b3_divi_fas_icon_fd:before,
+body .et_pb_button_two.b3_divi_fas_icon_fd:after,
+body .et-pb-icon.b3_divi_fas_icon_fd,
+body .et_overlay.b3_divi_fas_icon_fd:before,
+body .et_overlay.b3_divi_fas_icon_fd:after,
+body .et_extra_overlay.b3_divi_fas_icon_fd:before,
+body .et_extra_overlay.b3_divi_fas_icon_fd:after,
+body .et_pb_shop.b3_divi_fas_icon_fd:before,
+body .et_pb_shop.b3_divi_fas_icon_fd:after,
+.et_font_icon li.b3_divi_fas_icon_fd:before,
+body.et-db #et-boc .et-l .et-fb-font-icon-list li.b3_divi_fas_icon_fd:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_fas_icon_fd.et-pb-icon[data-iconfamily="fas"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et-pb-icon[data-iconfamily="fas"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_fas_icon_fd[data-iconfamily="fas"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_fas_icon_fd[data-iconfamily="fas"]:after,
+/* body.et-db.b3-icon-pro #page-container #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="fas"]:after, */
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .single_add_to_cart_button.button[data-iconfamily="fas"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .single_add_to_cart_button.button[data-iconfamily="fas"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="fas"]:before{
+	font-family: 'Font Awesome 5 Free' !important;
+	font-weight: 900 !important;
+	/* opacity: 1 !important; */
+}
+
+/*Font Awesome Icon*/
+.elegantshop-add-button .add_to_cart_button.b3_divi_far_icon_fd,
+.elegantshop-add-button .elegantshop-click-etfonts.b3_divi_far_icon_fd,
+.elegantshop-nav.elegantshop-carousel-button-prev.b3_divi_far_icon_fd,
+.elegantshop-nav.elegantshop-carousel-button-next.b3_divi_far_icon_fd,
+.elegantshop-cart-icon.b3_divi_far_icon_fd,
+.dnext-sid-text-divider-icon.b3_divi_far_icon_fd,
+.dnxte-feature-list-icon.b3_divi_far_icon_fd,
+.dnxte-hotspot_icon.b3_divi_far_icon_fd,
+.dgbc_blog_carousel .dgbc_post_item .dg_read_more_wrapper a:after,
+.dp-dfg-search,
+*[data-b3c='b3_divi_far_icon_fd']:after,
+*[data-b3c='b3_divi_far_icon_fd']:before,
+body .et-pb-icon[data-b3c='b3_divi_far_icon_fd'],
+body .dsm_icon_list_icon[data-b3c='b3_divi_far_icon_fd'],
+body .dmach-icon.b3_divi_far_icon_fd,
+body .et_overlay.b3_divi_far_icon_fd,
+body .b3_divi_far_icon_fd:before,
+body .b3_divi_far_icon_fd:after,
+body .et_pb_button.b3_divi_far_icon_fd:before,
+body .et_pb_button.b3_divi_far_icon_fd:after,
+body [class^="et_pb_button_"].b3_divi_far_icon_fd:before,
+body [class^="et_pb_button_"].b3_divi_far_icon_fd:after,
+body .et_pb_custom_button_icon.b3_divi_far_icon_fd:before,
+body .et_pb_custom_button_icon.b3_divi_far_icon_fd:after,
+body .et_pb_more_button.b3_divi_far_icon_fd:before,
+body .et_pb_more_button.b3_divi_far_icon_fd:after,
+body .et_pb_button_one.b3_divi_far_icon_fd:before,
+body .et_pb_button_one.b3_divi_far_icon_fd:after,
+body .et_pb_button_two.b3_divi_far_icon_fd:before,
+body .et_pb_button_two.b3_divi_far_icon_fd:after,
+body .et-pb-icon.b3_divi_far_icon_fd,
+body .et_overlay.b3_divi_far_icon_fd:before,
+body .et_overlay.b3_divi_far_icon_fd:after,
+body .et_extra_overlay.b3_divi_far_icon_fd:before,
+body .et_extra_overlay.b3_divi_far_icon_fd:after,
+body .et_pb_shop.b3_divi_far_icon_fd:before,
+body .et_pb_shop.b3_divi_far_icon_fd:after,
+.et_font_icon li.b3_divi_far_icon_fd:before,
+body.et-db #et-boc .et-l .et-fb-font-icon-list li.b3_divi_far_icon_fd:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_far_icon_fd.et-pb-icon[data-iconfamily="far"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et-pb-icon[data-iconfamily="far"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_far_icon_fd[data-iconfamily="far"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_far_icon_fd[data-iconfamily="far"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="far"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .single_add_to_cart_button.button[data-iconfamily="far"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .single_add_to_cart_button.button[data-iconfamily="far"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="far"]:before{
+	font-family: 'Font Awesome 5 Free' !important;
+	font-weight: 400 !important;
+	/* opacity: 1 !important; */
+}
+
+/*Font Awesome Icon*/
+.elegantshop-add-button .add_to_cart_button.b3_divi_fab_icon_fd,
+.elegantshop-add-button .elegantshop-click-etfonts.b3_divi_fab_icon_fd,
+.elegantshop-nav.elegantshop-carousel-button-prev.b3_divi_fab_icon_fd,
+.elegantshop-nav.elegantshop-carousel-button-next.b3_divi_fab_icon_fd,
+.elegantshop-cart-icon.b3_divi_fab_icon_fd,
+.dnext-sid-text-divider-icon.b3_divi_fab_icon_fd,
+.dnxte-feature-list-icon.b3_divi_fab_icon_fd,
+.dnxte-hotspot_icon.b3_divi_fab_icon_fd,
+.dgbc_blog_carousel .dgbc_post_item .dg_read_more_wrapper a:after,
+.dp-dfg-search,
+*[data-b3c='b3_divi_fab_icon_fd']:after,
+*[data-b3c='b3_divi_fab_icon_fd']:before,
+body .et-pb-icon[data-b3c='b3_divi_fab_icon_fd'],
+body .dsm_icon_list_icon[data-b3c='b3_divi_fab_icon_fd'],
+body .dmach-icon.b3_divi_fab_icon_fd,
+body .et_overlay.b3_divi_fab_icon_fd,
+body .b3_divi_fab_icon_fd:before,
+body .b3_divi_fab_icon_fd:after,
+body .et_pb_button.b3_divi_fab_icon_fd:before,
+body .et_pb_button.b3_divi_fab_icon_fd:after,
+body [class^="et_pb_button_"].b3_divi_fab_icon_fd:before,
+body [class^="et_pb_button_"].b3_divi_fab_icon_fd:after,
+body .et_pb_custom_button_icon.b3_divi_fab_icon_fd:before,
+body .et_pb_custom_button_icon.b3_divi_fab_icon_fd:after,
+body .et_pb_more_button.b3_divi_fab_icon_fd:before,
+body .et_pb_more_button.b3_divi_fab_icon_fd:after,
+body .et_pb_button_one.b3_divi_fab_icon_fd:before,
+body .et_pb_button_one.b3_divi_fab_icon_fd:after,
+body .et_pb_button_two.b3_divi_fab_icon_fd:before,
+body .et_pb_button_two.b3_divi_fab_icon_fd:after,
+body .et-pb-icon.b3_divi_fab_icon_fd,
+body .et_overlay.b3_divi_fab_icon_fd:before,
+body .et_overlay.b3_divi_fab_icon_fd:after,
+body .et_extra_overlay.b3_divi_fab_icon_fd:before,
+body .et_extra_overlay.b3_divi_fab_icon_fd:after,
+body .et_pb_shop.b3_divi_fab_icon_fd:before,
+body .et_pb_shop.b3_divi_fab_icon_fd:after,
+.et_font_icon li.b3_divi_fab_icon_fd:before,
+body.et-db #et-boc .et-l .et-fb-font-icon-list li.b3_divi_fab_icon_fd:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_fab_icon_fd.et-pb-icon[data-iconfamily="fab"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et-pb-icon[data-iconfamily="fab"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_fab_icon_fd[data-iconfamily="fab"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_fab_icon_fd[data-iconfamily="fab"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="fab"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .single_add_to_cart_button.button[data-iconfamily="fab"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .single_add_to_cart_button.button[data-iconfamily="fab"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="fab"]:before{
+	font-family: 'Font Awesome 5 Brands' !important;
+	/* opacity: 1 !important; */
+}
+
+/*ET Icon*/
+.elegantshop-add-button .add_to_cart_button.b3_divi_et_icon_fd,
+.elegantshop-add-button .elegantshop-click-etfonts.b3_divi_et_icon_fd,
+.elegantshop-nav.elegantshop-carousel-button-prev.b3_divi_et_icon_fd,
+.elegantshop-nav.elegantshop-carousel-button-next.b3_divi_et_icon_fd,
+.elegantshop-cart-icon.b3_divi_et_icon_fd,
+.dnext-sid-text-divider-icon.b3_divi_et_icon_fd,
+.dnxte-feature-list-icon.b3_divi_et_icon_fd,
+.dnxte-hotspot_icon.b3_divi_et_icon_fd,
+.dgbc_blog_carousel .dgbc_post_item .dg_read_more_wrapper a:after,
+.dp-dfg-search,
+*[data-b3c='b3_divi_et_icon_fd']:after,
+*[data-b3c='b3_divi_et_icon_fd']:before,
+body .et-pb-icon[data-b3c='b3_divi_et_icon_fd'],
+body .dsm_icon_list_icon[data-b3c='b3_divi_et_icon_fd'],
+body .dmach-icon.et_pb_button.b3_divi_et_icon_fd,
+body .et_overlay.et_pb_button.b3_divi_et_icon_fd,
+body .et_pb_button.b3_divi_et_icon_fd:before,
+body .et_pb_button.b3_divi_et_icon_fd:after,
+body [class^="et_pb_button_"].b3_divi_et_icon_fd:before,
+body [class^="et_pb_button_"].b3_divi_et_icon_fd:after,
+body .et_pb_custom_button_icon.b3_divi_et_icon_fd:before,
+body .et_pb_custom_button_icon.b3_divi_et_icon_fd:after,
+body .et_pb_more_button.b3_divi_et_icon_fd:before,
+body .et_pb_more_button.b3_divi_et_icon_fd:after,
+body .et_pb_button_one.b3_divi_et_icon_fd:before,
+body .et_pb_button_one.b3_divi_et_icon_fd:after,
+body .et_pb_button_two.b3_divi_et_icon_fd:before,
+body .et_pb_button_two.b3_divi_et_icon_fd:after,
+body .et-pb-icon.b3_divi_et_icon_fd,
+body .et_overlay.b3_divi_et_icon_fd:before,
+body .et_overlay.b3_divi_et_icon_fd:after,
+body .et_extra_overlay.b3_divi_et_icon_fd:before,
+body .et_extra_overlay.b3_divi_et_icon_fd:after,
+body .et_pb_shop.b3_divi_et_icon_fd:before,
+body .et_pb_shop.b3_divi_et_icon_fd:after,
+.et_font_icon li.b3_divi_et_icon_fd:before,
+body .et:before,body .et:after,
+body.et-db #et-boc .et-l .et-fb-font-icon-list li.b3_divi_et_icon_fd:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_et_icon_fd.et-pb-icon[data-iconfamily="et"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et-pb-icon[data-iconfamily="et"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_et_icon_fd[data-iconfamily="et"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_et_icon_fd[data-iconfamily="et"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="et"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .single_add_to_cart_button.button[data-iconfamily="et"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .single_add_to_cart_button.button[data-iconfamily="et"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="et"]:before{
+	font-family: "ETmodules" !important;
+	/* opacity: 1 !important; */
+}
+
+/*B3 Holiday Icon*/
+.elegantshop-add-button .add_to_cart_button.b3_divi_b3holidayicon_icon_fd,
+.elegantshop-add-button .elegantshop-click-etfonts.b3_divi_b3holidayicon_icon_fd,
+.elegantshop-nav.elegantshop-carousel-button-prev.b3_divi_b3holidayicon_icon_fd,
+.elegantshop-nav.elegantshop-carousel-button-next.b3_divi_b3holidayicon_icon_fd,
+.elegantshop-cart-icon.b3_divi_b3holidayicon_icon_fd,
+.dnext-sid-text-divider-icon.b3_divi_b3holidayicon_icon_fd,
+.dnxte-feature-list-icon.b3_divi_b3holidayicon_icon_fd,
+.dnxte-hotspot_icon.b3_divi_b3holidayicon_icon_fd,
+.dgbc_blog_carousel .dgbc_post_item .dg_read_more_wrapper a:after,
+.dp-dfg-search,
+*[data-b3c='b3_divi_b3holidayicon_icon_fd']:after,
+*[data-b3c='b3_divi_b3holidayicon_icon_fd']:before,
+body .et-pb-icon[data-b3c='b3_divi_b3holidayicon_icon_fd'],
+body .dsm_icon_list_icon[data-b3c='b3_divi_b3holidayicon_icon_fd'],
+body .et_pb_button.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_button.b3_divi_b3holidayicon_icon_fd:after,
+body [class^="et_pb_button_"].b3_divi_b3holidayicon_icon_fd:before,
+body [class^="et_pb_button_"].b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_custom_button_icon.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_custom_button_icon.b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_more_button.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_more_button.b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_button_one.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_button_one.b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_button_two.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_button_two.b3_divi_b3holidayicon_icon_fd:after,
+body .et-pb-icon.b3_divi_b3holidayicon_icon_fd,
+body .et_overlay.b3_divi_b3holidayicon_icon_fd:before,
+body .et_overlay.b3_divi_b3holidayicon_icon_fd:after,
+body .et_extra_overlay.b3_divi_b3holidayicon_icon_fd:before,
+body .et_extra_overlay.b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_shop.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_shop.b3_divi_b3holidayicon_icon_fd:after,
+.et_font_icon li.b3_divi_b3holidayicon_icon_fd:before,
+body .et:before,body .et:after,
+body.et-db #et-boc .et-l .et-fb-font-icon-list li.b3_divi_b3holidayicon_icon_fd:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_b3holidayicon_icon_fd.et-pb-icon[data-iconfamily="b3holidayicon"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et-pb-icon[data-iconfamily="b3holidayicon"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_b3holidayicon_icon_fd[data-iconfamily="b3holidayicon"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .b3_divi_b3holidayicon_icon_fd[data-iconfamily="b3holidayicon"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="b3holidayicon"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="b3holidayicon"]:before{
+	font-family: 'Holiday-Icons-for-Divi' !important;
+	/* opacity: 1 !important; */
+}
+
+/* ADMIM CSS */
+/*B3 Line Icon*/
+.dgbc_blog_carousel .dgbc_post_item .dg_read_more_wrapper a:after,
+.dp-dfg-search,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .dmach-icon.b3_divi_b3lineicon_icon_fd,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_b3lineicon_icon_fd.et-pb-icon[data-iconfamily="b3lineicon"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et-pb-icon[data-iconfamily="b3lineicon"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_b3lineicon_icon_fd[data-iconfamily="b3lineicon"]:before,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_b3lineicon_icon_fd[data-iconfamily="b3lineicon"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="b3lineicon"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="b3lineicon"]:before{
+	font-family: 'B3-Line-Icons' !important;
+	/* opacity: 1 !important; */
+}
+
+/*Material Icon*/
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_mt_icon_fd.et-pb-icon[data-iconfamily="mt"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et-pb-icon[data-iconfamily="mt"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_mt_icon_fd[data-iconfamily="mt"]:before,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_mt_icon_fd[data-iconfamily="mt"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="mt"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="mt"]:before{
+	font-family: 'Material Icons' !important
+}
+
+/*Font Awesome Icon*/
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_fas_icon_fd.et-pb-icon[data-iconfamily="fas"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et-pb-icon[data-iconfamily="fas"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_fas_icon_fd[data-iconfamily="fas"]:before,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_fas_icon_fd[data-iconfamily="fas"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="fas"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="fas"]:before{
+	font-family: 'Font Awesome 5 Free' !important;
+	font-weight: 900 !important;
+	/* opacity: 1 !important; */
+}
+
+/*Font Awesome Icon*/
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_far_icon_fd.et-pb-icon[data-iconfamily="far"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et-pb-icon[data-iconfamily="far"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_far_icon_fd[data-iconfamily="far"]:before,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_far_icon_fd[data-iconfamily="far"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="far"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="far"]:before{
+	font-family: 'Font Awesome 5 Free' !important;
+	font-weight: 400 !important;
+	/* opacity: 1 !important; */
+}
+
+/*Font Awesome Icon*/
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_fab_icon_fd.et-pb-icon[data-iconfamily="fab"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et-pb-icon[data-iconfamily="fab"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_fab_icon_fd[data-iconfamily="fab"]:before,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_fab_icon_fd[data-iconfamily="fab"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="fab"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="fab"]:before{
+	font-family: 'Font Awesome 5 Brands' !important;
+	/* opacity: 1 !important; */
+}
+
+/*ET Icon*/
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_et_icon_fd.et-pb-icon[data-iconfamily="et"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et-pb-icon[data-iconfamily="et"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_et_icon_fd[data-iconfamily="et"]:before,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_et_icon_fd[data-iconfamily="et"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="et"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="et"]:before{font-family: 'ETModules' !important;}
+
+/*B3 Holiday Icon*/
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_b3holidayicon_icon_fd.et-pb-icon[data-iconfamily="b3holidayicon"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et-pb-icon[data-iconfamily="b3holidayicon"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_b3holidayicon_icon_fd[data-iconfamily="b3holidayicon"]:before,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .b3_divi_b3holidayicon_icon_fd[data-iconfamily="b3holidayicon"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="b3holidayicon"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-l .et_pb_custom_button_icon[data-iconfamily="b3holidayicon"]:before{
+	font-family: 'Holiday-Icons-for-Divi' !important;
+	/* opacity: 1 !important; */
+}
+
+/*Font Awesome Icon*/
+.et-fb-font-icon-list li.b3_divi_icons_list.b3_divi_fas_icon_fd,
+.et-fb-font-icon-list li.b3_divi_icons_list.b3_divi_fab_icon_fd,
+.et-fb-font-icon-list li.b3_divi_icons_list.b3_divi_far_icon_fd{background-color:#619cdf33 !important;}
+/*B3 Line Icon*/
+.et-fb-font-icon-list li.b3_divi_icons_list.b3_divi_b3lineicon_icon_fd{background-color:#85afe51f !important;}
+/*Material Icon*/
+.et-fb-font-icon-list li.b3_divi_icons_list.b3_divi_mt_icon_fd{background-color:#619cdf33 !important;}
+/*Active Icon*/
+.et-db #et-boc .et-l .et-fb-font-icon-list li.b3_divi_icons_list.active{ background-color: #008bdb !important;border-radius: 0px;color: #fff;}
+/*Global*/
+.et-db #et-boc .et-l ul.et-fb-font-icon-list {
+	max-width: 100%;
+	overflow-y: scroll;
+	max-height: 250px;
+}
+
+
+
+#et-boc .et-l #b3_custom_search, #b3_custom_search {
+    background-image: url(/wp-content/plugins/divi-icons-pro/assets/img/searchicon.png);
+    background-position: 15px 16px;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-size: 16px;
+    padding: 10px 20px 12px 45px;
+    margin-bottom: 20px;
+    font-style: italic;
+    background-color: #f1f5f9;
+    border: none;
+    border-radius: 100px;
+    transition-duration: .3s;
+}
+#et-boc .et-l #b3_custom_search:focus, #b3_custom_search:focus {
+	background-color: #ffffff !important;
+	box-shadow: 0 5px 15px #dee5ec !important;
+	transition-duration: .3s;
+}
+#et-boc .et-l .b3_filter_div,
+.b3_filter_div {
+	margin-bottom: 20px !important;
+	margin-top: 20px !important;
+}
+#et-boc .et-l .b3_filter_div .b3_filter, .b3_filter_div .b3_filter {
+    border-radius: 100px;
+    padding: 8px 15px;
+    width: auto;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    background-color: #f1f5f9;
+    transition-duration: .3s;
+}
+#et-boc .et-l .b3_filter_div .b3_filter:hover, .b3_filter_div .b3_filter:hover {
+    background-color: #e2e8ef;
+    transition-duration: .3s;
+}
+#et-boc .et-l .b3_filter_div a.b3_filter ,#et-boc .et-l .b3_filter_div  a.b3_filter:focus,
+.b3_filter_div a.b3_filter ,.b3_filter_div  a.b3_filter:focus {
+	text-decoration: none !important;
+	color:#A0A9B2;
+	box-shadow: none;
+	font-style:italic;
+}
+#et-boc .et-l .b3_active.b3_filter, .b3_active.b3_filter {
+    background-color: #2c86da;
+    color: #fff !important;
+    border:none;
+    transition-duration: .3s;
+}
+#et-boc .et-l .b3_active.b3_filter:hover, .b3_active.b3_filter:hover {
+    background-color: #2c86da;
+    color: #fff !important;
+}
+.b3_filter_search_result{display:none;}
+.et-pb-icon.hide_icon,.et_pb_button.hide_icon:after,.et_pb_button.hide_icon:before,.et_overlay.hide_icon:before,.swiper-button-prev.hide_icon,.swiper-button-next.hide_icon {display:none !important;}
+.show_icon.et-pb-icon,
+.et_pb_button.show_icon:after,
+.et_pb_button.show_icon:after,
+/* .et_overlay.show_icon:before, */
+.swiper-button-prev.show_icon,
+.swiper-button-next.show_icon{ display:inline-block; }
+
+/* 	Divi Machine Compataplity */
+body .dmach-icon.b3_divi_mt_icon_fd:before,
+body .dmach-icon.b3_divi_fab_icon_fd:before,
+body .dmach-icon.b3_divi_far_icon_fd:before,
+body .dmach-icon.b3_divi_et_icon_fd:before,
+body .dmach-icon.b3_divi_b3lineicon_icon_fd:before,
+body .dmach-icon.b3_divi_fas_icon_fd:before,
+
+body .et_overlay.b3_divi_mt_icon_fd:before,
+body .et_overlay.b3_divi_fab_icon_fd:before,
+body .et_overlay.b3_divi_far_icon_fd:before,
+body .et_overlay.b3_divi_et_icon_fd:before,
+body .et_overlay.b3_divi_b3lineicon_icon_fd:before,
+body .et_overlay.b3_divi_fas_icon_fd:before
+{
+	content: attr(data-icon);
+}
+
+.et-db #et-boc .et-l .et-pb-icon,
+.et-db #et-boc .et-l .et-pb-icon.et-waypoint:not(.et_pb_counters){
+	visibility: hidden;
+}
+
+.et_pb_fullwidth_header .et-pb-icon {
+	visibility: inherit !important;
+}
+
+body .dsm_icon_list .dsm_icon_list_icon{display: none !important;}
+body .dsm_icon_list .dsm_icon_list_icon[data-b3c]{display:inline-block  !important;}
+
+.et-db #et-boc .et-l .dipi-breadcrumbs .et-pb-icon,
+.et-db #et-boc .et-l .et-pb-icon.b3_divi_icon_fd,
+.et-db #et-boc .et-l .et-pb-icon.db-custom-icon,
+.et-db #et-boc .et-l .et-pb-icon[data-b3c='b3_divi_b3lineicon_icon_fd'],
+.et-db #et-boc .et-l .et-pb-icon[data-b3c='b3_divi_mt_icon_fd'],
+.et-db #et-boc .et-l .et-pb-icon[data-b3c='b3_divi_fas_icon_fd'],
+.et-db #et-boc .et-l .et-pb-icon[data-b3c='b3_divi_far_icon_fd'],
+.et-db #et-boc .et-l .et-pb-icon[data-b3c='b3_divi_fab_icon_fd'],
+.et-db #et-boc .et-l .et-pb-icon[data-b3c='b3_divi_et_icon_fd'],
+.et-db #et-boc .et-l .et-pb-icon[data-b3c='b3_divi_b3holidayicon_icon_fd'],
+.et-db #et-boc .et-l .et-pb-icon.et-waypoint.b3_divi_icon_fd:not(.et_pb_counters)
+{opacity: 1 !important;visibility: visible !important;}
+.b3customicon{min-width:20px;}
